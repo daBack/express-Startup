@@ -1,4 +1,4 @@
-# Here is a simple way to easy setup an Express server based on node. All necessary pieces are included.
+# An easy setup an Express server based on node. All necessary pieces are included.
 
 ## Installation
 
